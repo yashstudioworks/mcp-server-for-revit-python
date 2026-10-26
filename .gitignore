@@ -15,3 +15,8 @@ CLAUDE.md
 .mcp.json
 # Local test/audit artifacts
 .pytest_cache/
+
+# Downloaded documentation and machine-specific Codex setup
+/llms.txt
+/llms-full.txt
+/.revit-codex.local.md

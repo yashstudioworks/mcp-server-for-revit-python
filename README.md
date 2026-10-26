@@ -136,6 +136,9 @@ They never conflict because they serve different roles, speak different protocol
 
 ## Getting Started
 
+For Codex, see the [Codex setup guide](docs/codex-setup.md), including local
+pairing, Routes configuration, and read-only connection checks.
+
 ### Installing uv:
 
 > Refer to ./README_UV.md
